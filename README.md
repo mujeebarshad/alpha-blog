@@ -1,24 +1,11 @@
-# README
+# Rails Blogging Application
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+It contains the following features:
 
-Things you may want to cover:
+1. CRUD functions
 
-* Ruby version
+2. Multilpe resources
 
-* System dependencies
+3. Authentication system
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+4. One-to-many and many-to-many association
